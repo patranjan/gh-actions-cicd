@@ -14,8 +14,6 @@ default_books = [
     ("The Way of Kings", "Brandon Sanderson", False)
 ]
 
-env_token = ""
-
 
 if __name__ == "__main__":
     cursor.execute(
